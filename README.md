@@ -12,7 +12,7 @@ I'm a developer passionate about building stuff on the internet.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lobotomized&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lobotomlzed&show_icons=true&count_private=true)
 
 ##
 <div align="center">
